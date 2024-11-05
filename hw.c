@@ -45,7 +45,7 @@ int first_day(int y, int m) {
 
 void print_calendar(int day, int d1) {
     printf("____________________________________\n");
-    printf("| 토 | 일 | 월 | 화 | 수 | 목 | 금 |\n");
+    printf("| 토 |일2 | 월2| 화2| 수 | 목 | 금 |\n");
     printf("____________________________________\n");
 
     int i;
